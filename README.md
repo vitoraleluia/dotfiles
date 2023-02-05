@@ -2,7 +2,7 @@
 
 ---
 
-## Distro
+## Linux distribution
 
 My distribuition of choice is any distro based on Debian or Ubuntu, because the script was design with this in mind. In this setup I choosed cross-platform and (preferbly) open-source apps.
 
@@ -22,7 +22,7 @@ My distribuition of choice is any distro based on Debian or Ubuntu, because the 
 
 ## 👨‍💻 Personal use apps
 
-- Brave - web browser
+- Firefox - web browser
 - Discord - chat
 - VLC - video player
 - Mark Text - markdown text editor
@@ -34,8 +34,9 @@ My distribuition of choice is any distro based on Debian or Ubuntu, because the 
 ## Dev apps
 
 - Visual Studio Code - code editor
-- Android Studio - android developement (not installed)
 - Insomnia - REST Client
+- JetBrains Toolbox
+- DBeaver - SQL client
 
 ## 🔤 Fonts
 
