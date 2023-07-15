@@ -26,6 +26,7 @@ My distribuition of choice is any distro based on Debian or Ubuntu, because the 
 - Obsidian - markdown text editor
 - VirtualBox - virtual machines
 - DroidCam - using phone as webcam
+- Stretchly - to take pauses
 
 ## Dev apps
 
