@@ -16,7 +16,6 @@ My distribuition of choice is any distro based on Debian or Ubuntu, because the 
 - exa - better ls
 - vim - simple text editor
 - git - do I really need to explain this?
-- zsh - IMO a better shell
 
 ---
 
@@ -24,18 +23,15 @@ My distribuition of choice is any distro based on Debian or Ubuntu, because the 
 
 - Firefox - web browser
 - Discord - chat
-- VLC - video player
-- Mark Text - markdown text editor
-- Okular - pdf viewer + annotations
+- Obsidian - markdown text editor
 - VirtualBox - virtual machines
-- qBittorrent- torrent
 - DroidCam - using phone as webcam
 
 ## Dev apps
 
 - Visual Studio Code - code editor
-- Insomnia - REST Client
-- JetBrains Toolbox
+- Postman - REST Client
+- JetBrains Toolbox - mainly for Intellij IDEA
 - DBeaver - SQL client
 
 ## 🔤 Fonts
