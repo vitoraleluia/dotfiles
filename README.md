@@ -4,7 +4,7 @@
 
 ## Linux distribution
 
-My distribuition of choice is any distro based on Debian or Ubuntu, because the script was design with this in mind. In this setup I choosed cross-platform and (preferbly) open-source apps.
+My distribuition of choice is any distro based on Debian or Ubuntu, because the script was design with this in mind. In this setup I choosed cross-platform and (preferably) open-source apps.
 
 ---
 
@@ -23,31 +23,24 @@ My distribuition of choice is any distro based on Debian or Ubuntu, because the 
 
 - Firefox - web browser
 - Discord - chat
-- Obsidian - markdown text editor
+- Obsidian - markdown text editor (for taking notes)
 - VirtualBox - virtual machines
 - DroidCam - using phone as webcam
-- Stretchly - to take pauses
+- Stretchly - to take pauses from the computer every hour
 
 ## Dev apps
 
-- Visual Studio Code - code editor
-- Postman - REST Client
-- JetBrains Toolbox - mainly for Intellij IDEA
+- Intellij IDEA - JAVA IDE
+- Visual Studio Code - Code editor
+- Postman - REST client
 - DBeaver - SQL client
 
-## 🔤 Fonts
+## 🔤 Monospaced Fonts (w/ ligatures)
 
-### With ligatures
-
-- [Fira Code](https://github.com/tonsky/FiraCode)
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+- [Fira Code](https://github.com/tonsky/FiraCode)
 - [Cascadia Code](https://github.com/microsoft/cascadia-code/releases)
-
-### Without Ligatures
-
-- [Hack](https://github.com/source-foundry/Hack)
-
----
+- [SFMono](https://github.com/shaunsingh/SFMono-Nerd-Font-Ligaturized)
 
 ## 🛠 CLI
 
@@ -58,7 +51,6 @@ git config --global user.name "First Last"
 git config --global user.email email@email.com
 ```
 
-### CLI Pluggins
+### CLI Customisation
 
-- [ZSH autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md)
-- [ZSH syntax highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
+- [Startship Shell Prompt](https://starship.rs/)
