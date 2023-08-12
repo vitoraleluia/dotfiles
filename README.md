@@ -6,8 +6,6 @@
 
 My distribuition of choice is any distro based on Debian or Ubuntu, because the script was design with this in mind. In this setup I choosed cross-platform and (preferably) open-source apps.
 
----
-
 ## 🛠️ CLI Tools
 
 - htop - shows system resources usage
@@ -15,9 +13,8 @@ My distribuition of choice is any distro based on Debian or Ubuntu, because the 
 - neofetch - shows system configuration
 - exa - better ls
 - vim - simple text editor
-- git - do I really need to explain this?
-
----
+- git - version control system
+- docker - CLI daemon for docker
 
 ## 👨‍💻 Personal use apps
 
@@ -40,6 +37,7 @@ My distribuition of choice is any distro based on Debian or Ubuntu, because the 
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 - [Fira Code](https://github.com/tonsky/FiraCode)
 - [Cascadia Code](https://github.com/microsoft/cascadia-code/releases)
+- [Martian Mono](https://fonts.google.com/specimen/Martian+Mono)
 - [SFMono](https://github.com/shaunsingh/SFMono-Nerd-Font-Ligaturized)
 
 ## 🛠 CLI
