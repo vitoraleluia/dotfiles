@@ -1,0 +1,10 @@
+curl
+git
+htop
+bat
+neofetch
+exa
+neovim
+timeshift
+virtualbox
+ubuntu-restricted-extras
