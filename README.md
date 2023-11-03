@@ -22,6 +22,8 @@ My distribuition of choice is any distro based on Ubuntu, because the script was
 - VirtualBox - virtual machines
 - DroidCam - using phone as webcam
 - Stretchly - to take pauses from the computer every hour
+- Timeshift - snapshots of OS
+- Déjà Dup - backup files
 
 ## Dev apps
 
