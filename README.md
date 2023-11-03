@@ -1,10 +1,8 @@
-# Vitor Linux Developer Setup
-
----
+# Vitor Linux Developement Setup
 
 ## Linux distribution
 
-My distribuition of choice is any distro based on Debian or Ubuntu, because the script was design with this in mind. In this setup I choosed cross-platform and (preferably) open-source apps.
+My distribuition of choice is any distro based on Ubuntu, because the script was design with this in mind. In this setup I choosed cross-platform and (preferably) open-source apps.
 
 ## 🛠️ CLI Tools
 
