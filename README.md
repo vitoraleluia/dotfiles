@@ -6,28 +6,34 @@ My distribuition of choice is any distro based on Ubuntu, because the script was
 
 ## 🛠️ CLI Tools
 
-- htop - shows system resources usage
+- btop - shows system resources usage
 - bat - better cat
 - neofetch - shows system configuration
 - exa - better ls
-- vim - simple text editor
+- neovim - simple text editor
 - git - version control system
-- docker - CLI daemon for docker
+- [docker](https://docs.docker.com/engine/install/ubuntu/) - CLI daemon for docker
 
 ## 👨‍💻 Personal use apps
 
 - Firefox - web browser
+  - uBlock Origin - ad blocker
+  - Bitwarden - password manager
+  - Dark reader - dark theme everything 
 - Discord - chat
 - Obsidian - markdown text editor (for taking notes)
-- VirtualBox - virtual machines
+- Gnomes Boxes/Virt-Manager - virtual machines
 - DroidCam - using phone as webcam
 - Stretchly - to take pauses from the computer every hour
 - Timeshift - snapshots of OS
 - Déjà Dup - backup files
+- Gufw - firewall
 
 ## Dev apps
 
 - Intellij IDEA - JAVA IDE
+  - Extensions for every language/filetype
+  - Monokai Pro/Tokyo night
 - Visual Studio Code - Code editor
 - Postman - REST client
 - DBeaver - SQL client
