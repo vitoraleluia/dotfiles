@@ -12,7 +12,8 @@ My distribuition of choice is any distro based on Ubuntu, because the script was
 - exa - better ls
 - neovim - simple text editor
 - git - version control system
-- [docker](https://docs.docker.com/engine/install/ubuntu/) - CLI daemon for docker
+- [Docker](https://docs.docker.com/engine/install/ubuntu/) - CLI daemon for docker
+- [SDKMAN](https://sdkman.io/) - JDK manager
 
 ## 👨‍💻 Personal use apps
 
@@ -44,7 +45,6 @@ My distribuition of choice is any distro based on Ubuntu, because the script was
 - [Fira Code](https://github.com/tonsky/FiraCode)
 - [Cascadia Code](https://github.com/microsoft/cascadia-code/releases)
 - [Martian Mono](https://fonts.google.com/specimen/Martian+Mono)
-- [SFMono](https://github.com/shaunsingh/SFMono-Nerd-Font-Ligaturized)
 
 ## 🛠 CLI
 
