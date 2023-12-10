@@ -6,5 +6,5 @@ neofetch
 exa
 neovim
 timeshift
-virtualbox
+gnome-boxes
 ubuntu-restricted-extras
