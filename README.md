@@ -17,8 +17,10 @@ My distribuition of choice is any distro based on Ubuntu, because the script was
 
 ## 👨‍💻 Personal use apps
 
-- Brave - web browser
+- Firefox - web browser
+  - uBlock Origin - adblocker
   - Bitwarden - password manager
+  - Dark reader
 - Discord - chat
 - Obsidian - markdown text editor (for taking notes)
 - Gnomes Boxes/Virt-Manager - virtual machines
