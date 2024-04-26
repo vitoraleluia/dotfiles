@@ -34,17 +34,19 @@ My distribuition of choice is any distro based on Ubuntu, because the script was
 
 - Intellij IDEA - JAVA IDE
   - Extensions for every language/filetype
-  - Monokai Pro/Tokyo night
 - Visual Studio Code - Code editor
 - Postman - REST client
 - DBeaver - SQL client
 
+### Colour themes 
+- Catppucion or Tokyo Night
+
 ## 🔤 Monospaced Fonts (w/ ligatures)
 
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
-- [Fira Code](https://github.com/tonsky/FiraCode)
 - [Cascadia Code](https://github.com/microsoft/cascadia-code/releases)
 - [Martian Mono](https://fonts.google.com/specimen/Martian+Mono)
+- [GitHub Monospace](https://monaspace.githubnext.com/)
 
 ## 🛠 CLI
 
