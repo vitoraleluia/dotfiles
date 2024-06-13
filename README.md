@@ -13,6 +13,6 @@ sudo apt install git stow -y
 ## Install
 
 ```sh
-git clone https://github.com/vitoraleluia/dotfiles.git && cd dotfiles/ && stow .
+git clone https://github.com/vitoraleluia/dotfiles.git && cd dotfiles/ && stow . -t ~
 ```
 
