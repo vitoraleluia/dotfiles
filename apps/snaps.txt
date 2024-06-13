@@ -1,5 +1,0 @@
-dbeaver-ce
-discord
-obsidian
-postman
-deja-dup
