@@ -1,0 +1,28 @@
+{
+  //Theme
+  "editor.semanticHighlighting.enabled": true,
+  "terminal.integrated.minimumContrastRatio": 1,
+  "window.titleBarStyle": "custom",
+  "workbench.colorTheme": "Catppuccin Mocha",
+  "workbench.iconTheme": "catppuccin-mocha",
+  "catppuccin.accentColor": "blue",
+  //Editor
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.fontFamily": "JetBrainsMono Nerd Font",
+  "editor.fontSize": 16,
+  "editor.lineHeight": 1.6,
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "editor.renderLineHighlight": "gutter",
+  "workbench.editor.labelFormat": "short",
+  "explorer.compactFolders": false,
+  "breadcrumbs.enabled": false,
+  "workbench.activityBar.location": "default",
+  "editor.minimap.enabled": false,
+  "workbench.statusBar.visible": false,
+  "workbench.layoutControl.enabled": false,
+  "window.commandCenter": false,
+  "window.customTitleBarVisibility": "auto",
+  "workbench.sideBar.location": "right",
+  "files.autoSave": "afterDelay",
+}
